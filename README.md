@@ -20,7 +20,7 @@ Decryption is the reverse process of encryption. By knowing the secret key or th
 2. sudo apt install python3 -y
 ### Open a text editor to create the script file. Use 'nano' or any other text editor available in Kali Linux
 3. nano image_encryption.py
-### write Caesar Cipher program code in text editor.
+### write image encryption program code in text editor.
 ### Save the file 
 4. Press 'CTRL+O' to save.
 5. Hit 'Enter' to confirm the file name.
