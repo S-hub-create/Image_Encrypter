@@ -1,4 +1,4 @@
-# PRODIGY_INFOTECH_CS_02
+# Introduction to PyImageEncrypter
 
 # Pixel Manipulation Image Encryption Tool
 
